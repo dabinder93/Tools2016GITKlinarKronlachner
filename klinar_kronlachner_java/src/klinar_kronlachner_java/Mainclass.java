@@ -15,6 +15,6 @@ public class Mainclass {
 
 	public void thisIsANewMethod()
 	{
-	
+		System.out.println("test");
 	}
 }
