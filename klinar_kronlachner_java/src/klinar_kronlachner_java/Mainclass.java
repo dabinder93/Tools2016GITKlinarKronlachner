@@ -15,6 +15,10 @@ public class Mainclass {
 
 	public void thisIsANewMethod()
 	{
+
 		int [] i = new int [1, 2, 3];
+
+		System.out.println("test");
+
 	}
 }
