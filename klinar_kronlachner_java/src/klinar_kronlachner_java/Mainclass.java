@@ -15,6 +15,6 @@ public class Mainclass {
 
 	public void thisIsANewMethod()
 	{
-	
+		int [] i = new int [1, 2, 3];
 	}
 }
