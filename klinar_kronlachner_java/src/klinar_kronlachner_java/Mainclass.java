@@ -31,4 +31,10 @@ public class Mainclass {
 	
 		System.out.println("bug fixed");
 	}
+	
+	public void outterSpaceBugFix(){
+		System.out.println("Bugfix from outter Space");
+		System.out.println("So much future");
+		System.out.println("many aliens");
+	}
 }
