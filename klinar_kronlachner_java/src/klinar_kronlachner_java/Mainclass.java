@@ -9,6 +9,8 @@ public class Mainclass {
 			for (j; j<10; j++){
 				
 			}
+			int i = 0;
+		
 	}
 	
 	
@@ -23,5 +25,10 @@ public class Mainclass {
 
 		System.out.println("test");
 
+	}
+	
+	public void bugfixMethod(){
+	
+		System.out.println("bug fixed");
 	}
 }
