@@ -6,6 +6,9 @@ public class Mainclass {
 		
 			System.out("hello git");
 			int j = 0;
+			for (j; j<10; j++){
+				
+			}
 	}
 	
 	
