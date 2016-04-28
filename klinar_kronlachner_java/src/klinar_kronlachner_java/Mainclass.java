@@ -21,4 +21,9 @@ public class Mainclass {
 		System.out.println("test");
 
 	}
+	
+	public void bugfixMethod(){
+	
+		System.out.println("bug fixed");
+	}
 }
